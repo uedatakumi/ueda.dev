@@ -20,6 +20,7 @@ a:hover {
 }
 
 .block {
+  line-height: 1.2;
   padding: 1rem;
 }
 
