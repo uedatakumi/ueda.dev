@@ -1,0 +1,107 @@
+@charset "UTF-8";
+
+$container-width: 960px;
+$title-size: 1.25rem;
+$portrait-size: 100px;
+
+// Color
+$text-color: #000;
+$link-color: #4682b4;
+$active-link-color: #a0522d;
+$border-color: #ccc;
+$nav-background-color: #333;
+$nav-text-color: #fff;
+
+body {
+  font-family: "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, sans-serif;
+  padding: 0;
+  line-height: 1.4;
+  margin: 0;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+
+  &:active {
+    color: $active-link-color;
+  }
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.block {
+  padding: 1rem;
+}
+
+.border-top {
+  border-top: 1px solid $border-color;
+}
+
+.border-bottom {
+  border-bottom: 1px solid $border-color;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: $container-width;
+}
+
+.flex {
+  display: flex;
+}
+
+.navbar {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0.5rem 1rem; 
+}
+
+.nav-items {
+  display: flex;
+  list-style: none;
+  margin-left: auto;
+  padding: 0;
+}
+
+.nav-item {
+  padding: 0 0.1rem;
+
+  a {
+    color: $text-color;
+    padding: 0.5rem;
+    text-decoration: none;
+
+    &:hover {
+      background-color: $nav-background-color;
+      color: $nav-text-color;
+    }
+  }
+}
+
+.p1 {
+  padding: 1rem;
+}
+
+.portrait {
+  border-radius: 5%;
+  height: $portrait-size;
+  width: $portrait-size;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.title-text {
+  font-size: $title-size;
+  margin-right: auto;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+  }
+}
