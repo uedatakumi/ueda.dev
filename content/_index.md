@@ -14,11 +14,11 @@ template = "index.html"
 
 ### Teaching
 
-- Oct 2021 - Dec 2021, Teaching assistant, I413E Theoretical Computer Science, JAIST.
-- Apr 2021 - Jun 2021, Teaching assistant, I211E Mathematical Logic, JAIST.
-- Dec 2020 - Feb 2021, Teaching assistant, I238E Computation Theory, JAIST.
-- Oct 2020 - Dec 2020, Teaching assistant, I211 Mathematical Logic, JAIST.
-- Jun 2020 - Aug 2020, Teaching assistant, I114 Fundamental Mathematics for Information Science, JAIST.
+- Oct 2021 - Dec 2021, Teaching assistant, I413E Theoretical Computer Science (in English), JAIST.
+- Apr 2021 - Jun 2021, Teaching assistant, I211E Mathematical Logic (in English), JAIST.
+- Dec 2020 - Feb 2021, Teaching assistant, I238E Computation Theory (in English), JAIST.
+- Oct 2020 - Dec 2020, Teaching assistant, I211 Mathematical Logic (in Japanese), JAIST.
+- Jun 2020 - Aug 2020, Teaching assistant, I114 Fundamental Mathematics for Information Science (in Japanese), JAIST.
 
 ### Pre-publication Reviews
 
