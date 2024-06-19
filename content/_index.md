@@ -6,7 +6,10 @@ template = "index.html"
 ### Work Experience
 
 - Apr 2022 - Present, Software Engineer (full-time), IT Company, Tokyo, Japan.
-- Mar 2015 - Mar 2019, Programmer (part-time), Systems Development Division, [MK System](https://www.mksc.jp/), Nagoya, Japan.
+  - R&D Group (Jul 2022 - Present)
+  - Administration Department (Apr 2022 - Jun 2022)
+- Mar 2015 - Mar 2019, Programmer (part-time), [MK System](https://www.mksc.jp/), Nagoya, Japan.
+  - Systems Development Division
 
 ### Education
 
