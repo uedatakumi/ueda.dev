@@ -3,7 +3,7 @@ title = "Home"
 template = "index.html"
 +++
 
-### Work Experience
+### Experience
 
 - Apr 2022 - Present, Software Engineer (full-time), IT Company, Tokyo, Japan.
   - R&D Group, Business Solutions Division (Jul 2022 - Present)
