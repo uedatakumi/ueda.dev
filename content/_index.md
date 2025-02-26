@@ -14,6 +14,8 @@ template = "index.html"
 ### Education
 
 - M.Sc. in Information Science, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/english/), 2022.
+  - Theoretical Computer Science
+  - Mathematical Logic
 
 ### Teaching
 
