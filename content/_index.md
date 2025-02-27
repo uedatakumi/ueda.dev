@@ -6,8 +6,7 @@ template = "index.html"
 ### Experience
 
 - Apr 2022 - Present, Software Engineer (full-time), IT Company, Tokyo, Japan.
-  - R&D Group, Business Solutions Division (Jul 2022 - Present)
-  - Administration Department (Apr 2022 - Jun 2022)
+  - R&D Group, Business Solutions Division
 - Mar 2015 - Mar 2019, Programmer (part-time), [MK System](https://www.mksc.jp/), Nagoya, Japan.
   - Systems Development Division
 
