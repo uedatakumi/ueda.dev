@@ -15,6 +15,7 @@ template = "index.html"
 - M.Sc. in Information Science, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/english/), 2022.
   - Theoretical Computer Science
   - Mathematical Logic
+  - Functional Programming
 
 ### Teaching
 
@@ -23,6 +24,10 @@ template = "index.html"
 - Dec 2020 - Feb 2021, Teaching assistant, Computation Theory (in English), JAIST.
 - Oct 2020 - Dec 2020, Teaching assistant, Mathematical Logic (in Japanese), JAIST.
 - Jun 2020 - Aug 2020, Teaching assistant, Fundamental Mathematics for Information Science (in Japanese), JAIST.
+
+### Certifications
+
+- AWS Certified Solutions Architect – Associate (Mar 2024 – Mar 2027)
 
 ### Pre-publication Reviews
 
