@@ -25,6 +25,11 @@ template = "index.html"
 - Oct 2020 - Dec 2020, Teaching assistant, Mathematical Logic (in Japanese), JAIST.
 - Jun 2020 - Aug 2020, Teaching assistant, Fundamental Mathematics for Information Science (in Japanese), JAIST.
 
+### <i class="fa-solid fa-coins"></i> Scholarship
+
+- Exemption from Return for Particularly Outstanding Achievement (Partial Exemption), [Japan Student Services Organization](https://www.jasso.go.jp), 2022.
+- JAIST Scholarship M Program, [Japan Advanced Institute of Science and Technology]((https://www.jaist.ac.jp/english/)), 2020.
+
 ### <i class="fa-solid fa-certificate"></i> Certifications
 
 - <i class="fa-brands fa-aws"></i> AWS Certified Solutions Architect – Associate (Mar 2024 – Mar 2027)
