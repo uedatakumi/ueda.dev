@@ -27,7 +27,7 @@ template = "index.html"
 
 ### <i class="fa-solid fa-coins"></i> Scholarship
 
-- Exemption from Return for Particularly Outstanding Achievement (Partial Exemption), [Japan Student Services Organization](https://www.jasso.go.jp), 2022.
+- Exemption from Return for Particularly Outstanding Achievement (Partial Exemption), Graduate Student Scholarship, [Japan Student Services Organization](https://www.jasso.go.jp), 2022.
 - JAIST Scholarship M Program, [Japan Advanced Institute of Science and Technology]((https://www.jaist.ac.jp/english/)), 2020.
 
 ### <i class="fa-solid fa-certificate"></i> Certifications
