@@ -11,6 +11,7 @@ $active-link-color: #a0522d;
 $border-color: #ccc;
 $nav-background-color: #333;
 $nav-text-color: #fff;
+$header-background-color: #f2f2f2;
 
 body {
   font-family: "Open Sans", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, sans-serif;
@@ -92,7 +93,7 @@ a {
 }
 
 .content {
-  padding: 0 1rem;
+  padding: 1rem;
 }
 
 .portrait {
@@ -113,4 +114,8 @@ a {
     color: $text-color;
     text-decoration: none;
   }
+}
+
+.header {
+  background-color: $header-background-color;
 }
