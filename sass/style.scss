@@ -1,17 +1,6 @@
 @charset "UTF-8";
 
-$container-width: 960px;
-$title-size: 1.25rem;
-$portrait-size: 120px;
-
-// Color
-$text-color: #000;
-$link-color: #4682b4;
-$active-link-color: #a0522d;
-$border-color: #ccc;
-$nav-background-color: #333;
-$nav-text-color: #fff;
-$header-background-color: #f2f2f2;
+@import "variables";
 
 body {
   font-family: "Open Sans", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, sans-serif;
